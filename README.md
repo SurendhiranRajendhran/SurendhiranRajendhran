@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hey, I'm Surendhiran R!</h1>  
+<h1 align="center">👋 Hey, I'm Surendhiran Rajendhran</h1>  
 <h3 align="center">Web & WordPress Developer | Tech Enthusiast | Problem Solver</h3>  
 
 ---
@@ -7,11 +7,8 @@
 
 - 🔹 **Web & WordPress Developer** passionate about creating dynamic, responsive, and user-friendly websites.  
 - 🔹 Successfully **completed two WordPress projects** for a startup, focusing on **custom themes, Elementor design, and WooCommerce integration**.  
-- 🔹 Experienced in **developing web applications**, including:  
-  - 🌐 **E-commerce Website** – Built during my internship.  
-  - 🛠 **Issues Rectification Platform** – A web-based issue tracking system.  
-  - 🏨 **Online Hotel Management System** – A system to streamline hotel operations.  
-  - 🔐 **Login & Registration Pages** – Designed secure authentication systems.  
+- 🔹 **Developed [GrowthSpark](https://growthspark.tech/), a WordPress project** designed for marketing consultation, delivering a seamless user experience.
+- 🔹 Experienced in **developing web applications**. 
 - 🔹 Actively participate in **hackathons and tech events** to enhance my skills.  
 
 ---
@@ -31,17 +28,10 @@
 
 ## 📫 Reach Me Out  
 
-<p align="center">
-  <a href="mailto:surendhiran0012@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-  <a href="tel:+918344050100">
-    <img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone">
-  </a>
-  <a href="https://www.linkedin.com/in/your-profile" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-</p>
+📞 **Phone:** +91 8344050100  
+📧 **Email:** [surendhiran0012@gmail.com](mailto:surendhiran0012@gmail.com)  
+🔗 **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/surendhiran-rajendhran-49a888259?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+
 
 ---
 
