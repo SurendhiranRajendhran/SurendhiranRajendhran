@@ -23,7 +23,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="60px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="60px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="60px"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Elementor_logo.svg/120px-Elementor_logo.svg.png" alt="Elementor" width="60px"/>
 </p>
 
 ---
