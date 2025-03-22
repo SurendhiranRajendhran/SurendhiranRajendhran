@@ -31,7 +31,6 @@
 
 ✔️ **Custom WordPress Development** – Designing & developing scalable WordPress websites.  
 ✔️ **UI/UX Design** – Creating visually appealing, responsive, and user-friendly interfaces.  
-✔️ **Full-Stack Web Development** – Building dynamic web applications using modern technologies.  
 ✔️ **SEO & Performance Optimization** – Ensuring websites rank well and load fast.  
 ✔️ **Technical Problem-Solving** – Debugging, testing, and refining web applications for efficiency. 
 
