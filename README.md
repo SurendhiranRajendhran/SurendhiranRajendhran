@@ -30,7 +30,7 @@
 
 📞 **Phone:** +91 8344050100  
 📧 **Email:** [surendhiran0012@gmail.com](mailto:surendhiran0012@gmail.com)  
-🔗 **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/surendhiran-rajendhran-49a888259?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+🔗 **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/surendhiran-rajendhran-49a888259?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 
 ---
