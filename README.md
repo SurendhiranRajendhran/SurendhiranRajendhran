@@ -39,7 +39,7 @@
 ## 💻 Work Experience  
 
 🚀 **WordPress Developer Intern** – *Webinnoventix*  
-📅 **Duration:** Ongoing since October 2024
+📅 **Duration:** Ongoing since October 2024.
 🔹 Developed & maintained two WordPress websites using Elementor & WooCommerce.  
 🔹 Optimized website performance & SEO for better engagement.  
 🔹 Created user-friendly interfaces and custom WordPress themes.  
