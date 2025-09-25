@@ -76,25 +76,11 @@
 
 ---
 
-## 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SurendhiranRajendhran&show_icons=true&theme=tokyonight" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SurendhiranRajendhran&layout=compact&theme=tokyonight" height="180px"/>
-</p>  
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SurendhiranRajendhran&theme=tokyonight" height="200px"/>
-</p>  
-
----
-
 ## 📫 Let's Connect  
 
 <p align="center">
   <a href="mailto:surendhiran0012@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/surendhiran-rajendhran-49a888259"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://growthspark.tech/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=react&logoColor=white"/></a>
 </p>  
 
 ---
