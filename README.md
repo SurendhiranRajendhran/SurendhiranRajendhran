@@ -6,7 +6,7 @@
 <h3 align="center">🌐 WordPress Developer | 📊 Data Analyst | 💡 Tech Enthusiast</h3>  
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=4000&color=00C2FF&center=true&vCenter=true&width=600&lines=Data+Science+%26+AI%2FML;WordPress+Development;Tech+Enthusiast+%7C+Problem+Solver" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=4000&color=00C2FF&center=true&vCenter=true&width=600&lines=Data+Analyst+%26+AI%2FML;WordPress+Developer;Tech+Enthusiast+%7C+Problem+Solver" />
 </p>  
 
 ---
