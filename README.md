@@ -1,52 +1,80 @@
 <h1 align="center">👋 Hey, I'm Surendhiran Rajendhran</h1>  
-<h3 align="center">Web & WordPress Developer | Tech Enthusiast | Problem Solver</h3>  
+<h3 align="center">WordPress Developer | Data Analyst | Tech Enthusiast</h3>  
 
 ---
 
 ## 🚀 About Me  
 
-- 🔹 **Web & WordPress Developer** passionate about creating dynamic, responsive, and user-friendly websites.  
-- 🔹 Successfully **completed two WordPress projects** for a startup, focusing on **custom themes, Elementor design, and WooCommerce integration**.  
-- 🔹 **Developed [GrowthSpark](https://growthspark.tech/), a WordPress project** designed for marketing consultation, delivering a seamless user experience.
-- 🔹 Experienced in **developing web applications**. 
-- 🔹 Actively participate in **hackathons and tech events** to enhance my skills.  
+- 🔹 Passionate **Web Developer** and **WordPress Enthusiast** from KGISL Institute of Technology.  
+- 🔹 Experienced in **WordPress development, Data Analytics, and AI/ML projects**.  
+- 🔹 Built and delivered **multiple WordPress websites** with SEO optimization and responsive designs.  
+- 🔹 Worked on **AI/ML-powered projects** like chatbots, data visualization, and face recognition.  
+- 🔹 Interested in **UI/UX design, full-stack development, and innovative problem-solving**.  
+- 🔹 Active participant in **hackathons and tech events** to continuously expand skills.  
 
 ---
 
-## 🛠 Languages & Technologies  
+## 💻 Internship Experience  
 
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="60px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="60px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="60px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" alt="WordPress" width="60px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="60px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="60px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="60px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="60px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="60px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="60px"/>
-</p>
+🚀 **WordPress Developer Intern** – *Webinnoventix (Startup)* (2024)  
+- Designed and delivered client websites using **WordPress & Elementor**.  
+- Optimized site performance for **SEO, speed, and responsiveness**.  
+- Customized themes & plugins to meet client-specific requirements.  
+- Maintained websites with **timely updates & version control**.  
 
----
+🚀 **Data Analyst & AI/ML Intern** – *Novitech R&D Pvt Ltd* (2025 – Present)  
+- Built an **AI-powered chatbot** for taxi booking using Dialogflow.  
+- Preprocessed & analyzed datasets for visualization and insights.  
+- Worked on **OpenCV & ML models** for object detection & classification.  
 
-## 💼 What I Do  
+🚀 **Full Stack Developer Intern** – *Stark Institutions* (2024)  
+- Built a functional **e-commerce website** using HTML, CSS, JS, and Node.js.  
+- Tested & debugged core modules for seamless performance.  
 
-✔️ **Custom WordPress Development** – Designing & developing scalable WordPress websites.  
-✔️ **UI/UX Design** – Creating visually appealing, responsive, and user-friendly interfaces.  
-✔️ **SEO & Performance Optimization** – Ensuring websites rank well and load fast.  
-✔️ **Technical Problem-Solving** – Debugging, testing, and refining web applications for efficiency. 
+🚀 **UI/UX Design Intern** – *Stark Institutions* (2024)  
+- Designed a **Netflix-style streaming platform UI** using Figma.  
+- Created wireframes, prototypes, and high-fidelity designs.  
+- Improved UX through user testing and feedback.  
 
 ---
 
-## 💻 Work Experience  
+## 🛠 Projects  
 
-🚀 **WordPress Developer Intern** – *Webinnoventix*  
-📅 **Duration:** Ongoing since October 2024
+- 🌐 **[GrowthSpark](https://growthspark.tech/)** – WordPress website for marketing consultation (SEO optimized, plugin integration, Elementor design).  
+- 🤖 **Taxi Booking Chatbot** – AI/ML-powered chatbot using Dialogflow & NLP for real-time bookings.  
+- 📊 **Data Cleaning & Visualization** – Processed student performance dataset with Pandas & Excel.  
+- 🎥 **Moving Object Detection** – OpenCV-based AI project for tracking objects in video streams.  
+- 👤 **Face Detection & Tracking** – Real-time webcam-based face tracking using OpenCV.  
+- 🖥 **Face Recognition System** – Identified individuals from live webcam feeds using Python & OpenCV.  
+- 🎓 **QuickBite – College Canteen UI** – Designed modern UI with Figma for a smart canteen ordering system.  
 
-🔹 Developed & maintained two WordPress websites using Elementor & WooCommerce.  
-🔹 Optimized website performance & SEO for better engagement.  
-🔹 Created user-friendly interfaces and custom WordPress themes.  
+---
+
+## 🏆 Events & Activities  
+
+- 🥇 **Smart India Hackathon (2024)** – National-level problem-solving hackathon participant.  
+- 💡 **Learnathon, PyEXPO, Tech Fests (2023–2025)** – Attended workshops & coding events.  
+
+---
+
+## 🛠 Skills  
+
+**Languages:** Java, C, Python, HTML, CSS, JavaScript  
+**Web Development:** WordPress, Elementor, Bootstrap, Node.js  
+**Tools:** Figma, Git, GitHub, Dialogflow, VS Code, Excel  
+**AI/ML:** OpenCV, Numpy, Pandas, NLP, ML models  
+**Databases:** MySQL  
+**Soft Skills:** Leadership, Adaptability, Collaboration, Communication  
+
+---
+
+## 📜 Certifications  
+
+- ✅ WordPress Development – *Webinnoventix*  
+- ✅ Data Analytics & AI/ML – *Novitech R&D Pvt Ltd*  
+- ✅ Introduction to Linux (LFS101)  
+- ✅ Full Stack Web Development – Internship Certificate  
+- ✅ UI/UX Internship – Stark Institutions  
 
 ---
 
@@ -54,8 +82,8 @@
 
 📞 **Phone:** +91 8344050100  
 📧 **Email:** [surendhiran0012@gmail.com](mailto:surendhiran0012@gmail.com)  
-🔗 **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/surendhiran-rajendhran-49a888259?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-
+🔗 **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/surendhiran-rajendhran-49a888259)  
+💻 **Portfolio:** [GrowthSpark](https://growthspark.tech/)  
 
 ---
 
