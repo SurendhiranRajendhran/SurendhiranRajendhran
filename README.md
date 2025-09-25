@@ -1,86 +1,88 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Portfolio - Surendhiran</title>
-  <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
-  <script src="https://cdn.jsdelivr.net/npm/typed.js@2.0.12"></script>
-  <script src="https://cdn.jsdelivr.net/npm/scrollreveal"></script>
-</head>
-<body class="bg-gradient-to-br from-gray-900 via-black to-gray-800 text-white font-sans">
-  
-  <!-- Hero Section -->
-  <section class="h-screen flex flex-col justify-center items-center text-center px-6">
-    <h1 class="text-5xl md:text-6xl font-extrabold bg-gradient-to-r from-green-400 to-blue-500 bg-clip-text text-transparent mb-4">
-      Hi, I'm Surendhiran
-    </h1>
-    <h2 class="text-2xl md:text-3xl font-semibold">
-      <span id="typed-text"></span>
-    </h2>
-    <p class="mt-6 text-gray-300 max-w-xl">
-      Turning ideas into impactful digital solutions with data, design, and development.
-    </p>
-  </section>
+<h1 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"/>  
+  Hey, I'm Surendhiran Rajendhran
+</h1>  
 
-  <!-- About Section -->
-  <section class="py-20 px-8 bg-gradient-to-b from-black to-gray-900">
-    <div class="max-w-4xl mx-auto text-center">
-      <h2 class="text-4xl font-bold mb-6 text-green-400">About Me</h2>
-      <p class="text-gray-300 leading-relaxed text-lg">
-        Passionate about data, AI, and web development. I love solving problems and building efficient, user-friendly solutions. 
-        With hands-on experience in data analysis, machine learning, and WordPress development, 
-        I aim to bridge the gap between technology and creativity.
-      </p>
-    </div>
-  </section>
+<h3 align="center">🌐 WordPress Developer | 📊 Data Analyst | 💡 Tech Enthusiast</h3>  
 
-  <!-- Let's Connect -->
-  <section class="py-20 px-8 bg-gradient-to-b from-gray-900 to-black text-center">
-    <h2 class="text-4xl font-bold text-blue-400 mb-8">Let's Connect</h2>
-    <div class="flex justify-center space-x-6">
-      <a href="https://www.linkedin.com" target="_blank" class="transform hover:scale-125 transition duration-300">
-        <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" class="w-12 h-12">
-      </a>
-      <a href="https://github.com" target="_blank" class="transform hover:scale-125 transition duration-300">
-        <img src="https://cdn-icons-png.flaticon.com/512/733/733609.png" alt="GitHub" class="w-12 h-12">
-      </a>
-      <a href="mailto:youremail@example.com" class="transform hover:scale-125 transition duration-300">
-        <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" class="w-12 h-12">
-      </a>
-    </div>
-  </section>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=4000&color=00C2FF&center=true&vCenter=true&width=600&lines=Data+Analyst+%26+AI%2FML;WordPress+Developer;Tech+Enthusiast+%7C+Problem+Solver" />
+</p>  
 
-  <!-- Footer -->
-  <footer class="py-6 text-center bg-black text-gray-500 text-sm">
-    © 2025 Surendhiran | All Rights Reserved
-  </footer>
+---
 
-  <!-- Typed.js Effect -->
-  <script>
-    var typed = new Typed("#typed-text", {
-      strings: [
-        "Data Analyst & AI/ML",
-        "WordPress Developer",
-        "Tech Enthusiast & Problem Solver"
-      ],
-      typeSpeed: 60,
-      backSpeed: 40,
-      backDelay: 1200,
-      loop: true
-    });
-  </script>
+## 🚀 About Me  
 
-  <!-- ScrollReveal Animations -->
-  <script>
-    ScrollReveal().reveal('h1, h2, p, .flex, footer', { 
-      delay: 200, 
-      distance: '40px', 
-      origin: 'bottom', 
-      duration: 1000, 
-      easing: 'ease-out',
-      reset: true
-    });
-  </script>
-</body>
-</html>
+- 💻 Passionate **WordPress & Web Developer** from KGISL Institute of Technology.  
+- 🌟 Skilled in **WordPress, Elementor, SEO optimization, UI/UX Design, Full-Stack Development**.  
+- 🤖 Worked on **AI/ML projects**: chatbots, OpenCV, face recognition & data visualization.  
+- 🎨 Experienced in **Figma** for UI/UX design & prototyping.  
+- 🏆 Active in **hackathons, learnathons, and tech fests** to expand skills.  
+
+---
+
+## 🛠 Tech Stack  
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+</p>  
+
+---
+
+## 💼 Internship Experience  
+
+- 🚀 **WordPress Developer** – Webinnoventix (2024)  
+- 📊 **Data Analyst & AI/ML** – Novitech R&D Pvt Ltd (2025 – Present)  
+- 🌐 **Full Stack Developer** – Stark Institutions (2024)  
+- 🎨 **UI/UX Designer** – Stark Institutions (2024)  
+
+---
+
+## 🏗 Projects  
+
+- 🌐 [**GrowthSpark**](https://growthspark.tech/) – WordPress site for marketing consultation  
+- 🤖 **Taxi Booking Chatbot** – AI-powered chatbot using Dialogflow & NLP  
+- 📊 **Data Cleaning & Visualization** – Pandas + Excel for student dataset insights  
+- 🎥 **Moving Object Detection** – OpenCV-based AI project  
+- 👤 **Face Detection & Tracking** – Real-time webcam face tracking  
+- 🖥 **Face Recognition System** – Python + OpenCV-based identification system  
+- 🍔 **QuickBite UI** – Smart canteen ordering system using Figma  
+
+---
+
+## 🏆 Events & Achievements  
+
+- 🥇 **Smart India Hackathon (2024)** – National-level participation  
+- 💡 **Learnathon, PyEXPO, Tech Fests (2023–2025)** – Workshops & coding events  
+
+---
+
+## 📜 Certifications  
+
+✔️ WordPress Development – Webinnoventix  
+✔️ Data Analytics & AI/ML – Novitech R&D Pvt Ltd  
+✔️ Introduction to Linux (LFS101)  
+✔️ Full Stack Web Development – Internship Certificate  
+✔️ UI/UX Internship – Stark Institutions  
+
+---
+
+## 📫 Let's Connect  
+
+<p align="center">
+  <a href="mailto:surendhiran0012@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/surendhiran-rajendhran-49a888259"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+</p>  
+
+---
+
+<h3 align="center">✨ Let's Connect and Build Something Amazing Together! 🚀</h3>  
