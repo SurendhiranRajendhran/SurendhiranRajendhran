@@ -6,7 +6,7 @@
 <h3 align="center">🌐 WordPress Developer | 📊 Data Analyst | 💡 Tech Enthusiast</h3>  
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=4000&color=00C2FF&center=true&vCenter=true&width=600&lines=Web+%26+WordPress+Developer;Data+Analytics+%26+AI%2FML+Intern;UI%2FUX+Designer+%7C+Full+Stack+Developer;Tech+Enthusiast+%7C+Problem+Solver" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=4000&color=00C2FF&center=true&vCenter=true&width=600&lines=Data+Science+%26+AI%2FML;WordPress+Development;Tech+Enthusiast+%7C+Problem+Solver" />
 </p>  
 
 ---
@@ -40,10 +40,10 @@
 
 ## 💼 Internship Experience  
 
-- 🚀 **WordPress Developer Intern** – Webinnoventix (2024)  
-- 📊 **Data Analyst & AI/ML Intern** – Novitech R&D Pvt Ltd (2025 – Present)  
-- 🌐 **Full Stack Developer Intern** – Stark Institutions (2024)  
-- 🎨 **UI/UX Design Intern** – Stark Institutions (2024)  
+- 🚀 **WordPress Developer** – Webinnoventix (2024)  
+- 📊 **Data Analyst & AI/ML** – Novitech R&D Pvt Ltd (2025 – Present)  
+- 🌐 **Full Stack Developer** – Stark Institutions (2024)  
+- 🎨 **UI/UX Designer** – Stark Institutions (2024)  
 
 ---
 
