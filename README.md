@@ -31,21 +31,21 @@
 ```yaml
 name: Surendhiran Rajendhran
 role: AI & Software Developer
-education: B.Tech Information Technology
+
 specialization:
   - AI Agents
   - Automation Systems
   - Full Stack Development
-  - WordPress Development
   - AI/ML Solutions
+  - WordPress Development
 
 currently_building:
   - AI Workflow Automation
   - Voice-Assisted Systems
-  - Intelligent Task Guidance
-  - Modern Web Experiences
+  - Intelligent Web Applications
+  - Real-Time AI Guidance Systems
 
-philosophy:
+mindset:
   "Build systems that think, automate, and scale."
 ```
 
@@ -74,9 +74,9 @@ philosophy:
 ```
 
 ```diff
-+ Building intelligent workflow automation systems
-+ Developing voice-assisted AI experiences
-+ Designing real-time AI task guidance systems
++ Building intelligent automation systems
++ Developing AI workflow assistants
++ Creating voice-assisted experiences
 ```
 
 <br/>
@@ -86,9 +86,9 @@ philosophy:
 ```
 
 ```diff
-+ Developed responsive and optimized websites
-+ Customized themes, plugins & UI systems
-+ Improved SEO, speed & performance
++ Developed responsive client websites
++ Optimized SEO & website performance
++ Customized themes & plugin systems
 ```
 
 <br/>
@@ -99,8 +99,8 @@ philosophy:
 
 ```diff
 + Built NLP-powered chatbot systems
-+ Worked on OpenCV & computer vision projects
-+ Created data visualization & analytics workflows
++ Worked on OpenCV & computer vision
++ Developed data analytics workflows
 ```
 
 <br/>
@@ -111,8 +111,8 @@ philosophy:
 
 ```diff
 + Developed scalable web applications
-+ Integrated APIs & backend systems
-+ Enhanced UI responsiveness & user experience
++ Integrated backend APIs & databases
++ Improved UI responsiveness & UX
 ```
 
 ---
@@ -128,14 +128,14 @@ philosophy:
 <td width="50%">
 
 ### 🤖 AI Task Supervisor
-AI-powered workflow automation & execution assistant with intelligent guidance systems.
+AI-powered workflow automation assistant with intelligent guidance systems.
 
 </td>
 
 <td width="50%">
 
 ### 🌐 GrowthSpark
-Modern WordPress-based marketing consultation platform with optimized performance.
+Modern WordPress-based marketing consultation platform.
 
 </td>
 </tr>
@@ -144,14 +144,14 @@ Modern WordPress-based marketing consultation platform with optimized performanc
 <td width="50%">
 
 ### 🚕 Taxi Booking Chatbot
-NLP-powered intelligent booking assistant using Dialogflow automation.
+NLP-powered intelligent booking assistant using Dialogflow.
 
 </td>
 
 <td width="50%">
 
 ### 👤 Face Recognition System
-Real-time face recognition & tracking system built using OpenCV & Python.
+Real-time face recognition system using OpenCV & Python.
 
 </td>
 </tr>
@@ -160,14 +160,14 @@ Real-time face recognition & tracking system built using OpenCV & Python.
 <td width="50%">
 
 ### 🎥 Moving Object Detection
-AI-based object tracking & motion analysis using computer vision.
+AI-based motion tracking & object analysis system.
 
 </td>
 
 <td width="50%">
 
 ### 🍔 QuickBitz UI
-Modern UI/UX concept for a smart canteen ordering experience.
+Modern smart canteen ordering UI/UX concept.
 
 </td>
 </tr>
