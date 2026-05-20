@@ -1,173 +1,114 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0F0F,25:1A1A40,50:00C2FF,75:7F5AF0,100:0F0F0F&height=220&section=header&text=Surendhiran%20Rajendhran&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Agent%20Developer%20•%20Full%20Stack%20Developer%20•%20AI/ML%20Explorer&descAlignY=58&descSize=18"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:050816,25:0B1026,50:00C2FF,75:7F5AF0,100:050816&text=Surendhiran%20Rajendhran&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=AI%20Agent%20Developer%20•%20Full%20Stack%20Engineer%20•%20AI/ML%20Explorer&descAlignY=58&descSize=18"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=700&size=26&duration=3000&pause=800&color=00F5FF&center=true&vCenter=true&width=900&lines=Building+AI-Powered+Digital+Experiences;Creating+Automation+%26+Intelligent+Systems;Full+Stack+Developer+%7C+AI%2FML+Enthusiast;Designing+Modern+%26+Scalable+Solutions" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=700&size=28&duration=2500&pause=1000&color=00E5FF&center=true&vCenter=true&width=1000&lines=Designing+Intelligent+Digital+Experiences;Building+AI-Powered+Automation+Systems;Full+Stack+Developer+%7C+AI+Explorer;Creating+Scalable+Modern+Solutions" />
 
 <br/>
 
-<a href="mailto:surendhiran0012@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/surendhiran-rajendhran-49a888259">
-<img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
-</a>
-
-<a href="https://github.com/SurendhiranRajendhran">
-<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+<img src="https://komarev.com/ghpvc/?username=SurendhiranRajendhran&label=Profile+Views&color=0e75b6&style=flat" />
 
 </div>
 
 ---
 
-<div align="center">
+# <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGNqZnN2cG4xY2x3YjU0bDN6MWV4d3N6a2Y3N2FhMXJvcmE5b3F2eSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l378BzHA5FwWFXVSg/giphy.gif" width="30"/>  SYSTEM.INIT()
 
-# ⚡ / SYSTEM.INFO
+```python
+class SurendhiranRajendhran:
 
-</div>
+    def __init__(self):
+        self.role = "AI & Software Developer"
 
-```yaml
-name: Surendhiran Rajendhran
-role: AI & Software Developer
+        self.specialization = [
+            "AI Agents",
+            "Automation Systems",
+            "Full Stack Development",
+            "AI/ML Solutions",
+            "Modern Web Experiences"
+        ]
 
-specialization:
-  - AI Agents
-  - Automation Systems
-  - Full Stack Development
-  - AI/ML Solutions
-  - WordPress Development
+        self.current_focus = [
+            "Voice-Assisted AI Systems",
+            "Workflow Automation",
+            "Generative AI",
+            "Scalable Applications"
+        ]
 
-currently_building:
-  - AI Workflow Automation
-  - Voice-Assisted Systems
-  - Intelligent Web Applications
-  - Real-Time AI Guidance Systems
-
-mindset:
-  "Build systems that think, automate, and scale."
+        self.mindset = "Build futuristic systems that automate and scale."
 ```
 
 ---
 
 <div align="center">
 
-# 🚀 / TECH.STACK
+# ⚡ TECH STACK
 
-</div>
-
-<p align="center">
 <img src="https://skillicons.dev/icons?i=python,java,javascript,react,nodejs,express,mysql,html,css,bootstrap,wordpress,git,github,figma,vscode&theme=dark" />
-</p>
-
----
-
-<div align="center">
-
-# 🧠 / EXPERIENCE.LOG
 
 </div>
 
-```bash
-> AI Agent Developer Intern
-```
-
-```diff
-+ Building intelligent automation systems
-+ Developing AI workflow assistants
-+ Creating voice-assisted experiences
-```
-
-<br/>
-
-```bash
-> WordPress Developer
-```
-
-```diff
-+ Developed responsive client websites
-+ Optimized SEO & website performance
-+ Customized themes & plugin systems
-```
-
-<br/>
-
-```bash
-> Data Analyst & AI/ML Intern
-```
-
-```diff
-+ Built NLP-powered chatbot systems
-+ Worked on OpenCV & computer vision
-+ Developed data analytics workflows
-```
-
-<br/>
-
-```bash
-> Full Stack Developer
-```
-
-```diff
-+ Developed scalable web applications
-+ Integrated backend APIs & databases
-+ Improved UI responsiveness & UX
-```
-
 ---
 
 <div align="center">
 
-# 🔥 / FEATURED.PROJECTS
+# 🧠 EXPERIENCE.LOG
 
 </div>
 
 <table>
 <tr>
-<td width="50%">
+<td>
 
-### 🤖 AI Task Supervisor
-AI-powered workflow automation assistant with intelligent guidance systems.
+### 🤖 AI Agent Developer Intern
 
-</td>
-
-<td width="50%">
-
-### 🌐 GrowthSpark
-Modern WordPress-based marketing consultation platform.
+```diff
++ Building AI-powered workflow systems
++ Developing voice-assisted automation
++ Creating intelligent task guidance solutions
+```
 
 </td>
 </tr>
 
 <tr>
-<td width="50%">
+<td>
 
-### 🚕 Taxi Booking Chatbot
-NLP-powered intelligent booking assistant using Dialogflow.
+### 🌐 WordPress Developer
 
-</td>
-
-<td width="50%">
-
-### 👤 Face Recognition System
-Real-time face recognition system using OpenCV & Python.
+```diff
++ Developed responsive business websites
++ Optimized SEO & performance
++ Customized themes & plugin ecosystems
+```
 
 </td>
 </tr>
 
 <tr>
-<td width="50%">
+<td>
 
-### 🎥 Moving Object Detection
-AI-based motion tracking & object analysis system.
+### 📊 Data Analyst & AI/ML Intern
+
+```diff
++ Built NLP-powered chatbot systems
++ Worked on OpenCV & computer vision
++ Developed analytics & automation workflows
+```
 
 </td>
+</tr>
 
-<td width="50%">
+<tr>
+<td>
 
-### 🍔 QuickBitz UI
-Modern smart canteen ordering UI/UX concept.
+### 💻 Full Stack Developer
+
+```diff
++ Developed scalable web applications
++ Integrated APIs & backend systems
++ Improved UI responsiveness & UX
+```
 
 </td>
 </tr>
@@ -177,55 +118,115 @@ Modern smart canteen ordering UI/UX concept.
 
 <div align="center">
 
-# 🏆 / ACHIEVEMENTS
+# 🚀 FEATURED PROJECTS
 
 </div>
 
-```txt
-🏅 Smart India Hackathon Participant
-🚀 Active in Learnathons & Tech Events
-💡 Passionate about AI, Innovation & Automation
-⚡ Exploring Generative AI & Intelligent Systems
-```
+<table>
+<tr>
+<td width="50%">
+
+## 🤖 AI Task Supervisor
+
+AI-powered workflow execution assistant with intelligent automation and real-time guidance systems.
+
+</td>
+
+<td width="50%">
+
+## 🌐 GrowthSpark
+
+Modern business website focused on performance, SEO optimization, and responsive experience.
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+## 🚕 Taxi Booking Chatbot
+
+NLP-powered intelligent booking assistant developed using Dialogflow automation.
+
+</td>
+
+<td width="50%">
+
+## 👤 Face Recognition System
+
+Real-time face recognition and tracking system using Python & OpenCV.
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+## 🎥 Moving Object Detection
+
+Computer vision-based object tracking and motion analysis system.
+
+</td>
+
+<td width="50%">
+
+## 🍔 QuickBitz UI
+
+Modern smart canteen ordering interface with clean UI/UX design.
+
+</td>
+</tr>
+</table>
 
 ---
 
 <div align="center">
 
-# 📜 / CERTIFICATIONS
+# 🏆 ACHIEVEMENTS
 
 </div>
 
 ```yaml
-✓ WordPress Development
-✓ Data Analytics & AI/ML
-✓ Introduction to Linux (LFS101)
-✓ Full Stack Web Development
-✓ UI/UX Design
+Smart India Hackathon:
+  → National-Level Participant
+
+Tech Activities:
+  → Learnathons
+  → Coding Events
+  → AI & Development Workshops
+
+Interests:
+  → Artificial Intelligence
+  → Automation Systems
+  → Generative AI
 ```
 
 ---
 
 <div align="center">
 
-# 🌍 / CONNECT
+# 🌍 CONNECT
 
 <br/>
 
 <a href="mailto:surendhiran0012@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-111111?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GMAIL-0B0F19?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/surendhiran-rajendhran-49a888259">
-<img src="https://img.shields.io/badge/LINKEDIN-111111?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
+  <img src="https://img.shields.io/badge/LINKEDIN-0B0F19?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
 </a>
 
 <a href="https://github.com/SurendhiranRajendhran">
-<img src="https://img.shields.io/badge/GITHUB-111111?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GITHUB-0B0F19?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<br/><br/>
+</div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0F0F,25:1A1A40,50:00C2FF,75:7F5AF0,100:0F0F0F&height=120&section=footer"/>
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:050816,25:0B1026,50:00C2FF,75:7F5AF0,100:050816&section=footer"/>
 
 </div>
