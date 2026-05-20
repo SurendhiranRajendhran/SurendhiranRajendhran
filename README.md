@@ -1,23 +1,21 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:030014,20:0F172A,40:1E3A8A,60:2563EB,80:38BDF8,100:020617&text=Surendhiran%20Rajendhran&fontSize=52&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20•%20Automation%20Developer%20•%20Full%20Stack%20Architect&descAlignY=58&descSize=20"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0F0F,25:1A1A40,50:00C2FF,75:7F5AF0,100:0F0F0F&height=220&section=header&text=Surendhiran%20Rajendhran&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Agent%20Developer%20•%20Full%20Stack%20Developer%20•%20AI/ML%20Explorer&descAlignY=58&descSize=18"/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=700&size=26&duration=3000&pause=800&color=00F5FF&center=true&vCenter=true&width=900&lines=Building+AI-Powered+Digital+Experiences;Creating+Automation+%26+Intelligent+Systems;Full+Stack+Developer+%7C+AI%2FML+Enthusiast;Designing+Modern+%26+Scalable+Solutions" />
 
 <br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Sora&weight=700&size=30&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=1000&lines=Engineering+Intelligent+Digital+Systems;AI+Agents+%7C+Automation+%7C+Full+Stack;Building+Scalable+AI-Powered+Experiences;Creating+Modern+%26+High-Performance+Solutions" />
-
-<br/><br/>
-
 <a href="mailto:surendhiran0012@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-050816?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/surendhiran-rajendhran-49a888259">
-<img src="https://img.shields.io/badge/LINKEDIN-050816?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
+<img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
 </a>
 
 <a href="https://github.com/SurendhiranRajendhran">
-<img src="https://img.shields.io/badge/GITHUB-050816?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </div>
@@ -26,248 +24,208 @@
 
 <div align="center">
 
-# <img width="28" src="https://cdn-icons-png.flaticon.com/512/2721/2721297.png"/>  PROFILE
-
-</div>
-
-<table>
-<tr>
-<td width="55%">
-
-```typescript
-const Surendhiran = {
-
-    role: "AI & Software Developer",
-
-    specialization: [
-        "AI Agents",
-        "Automation Systems",
-        "Full Stack Development",
-        "AI/ML Engineering",
-        "WordPress Solutions"
-    ],
-
-    currentlyBuilding: [
-        "Voice-Assisted AI Systems",
-        "Workflow Automation",
-        "AI Copilot Experiences",
-        "Scalable Web Platforms"
-    ],
-
-    mindset:
-      "Build intelligent systems that simplify complexity."
-}
-```
-
-</td>
-
-<td width="45%">
-
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SurendhiranRajendhran&theme=github_dark"/>
-
-</td>
-</tr>
-</table>
-
----
-
-<div align="center">
-
-# <img width="28" src="https://cdn-icons-png.flaticon.com/512/1157/1157109.png"/>  TECH STACK
-
-<br/>
-
-<img src="https://skillicons.dev/icons?i=python,java,javascript,react,nodejs,express,mysql,html,css,bootstrap,wordpress,git,github,figma,vscode&theme=dark" />
-
-</div>
-
----
-
-<div align="center">
-
-# <img width="28" src="https://cdn-icons-png.flaticon.com/512/2621/2621303.png"/>  EXPERIENCE
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<table>
-<tr>
-<td width="100%">
-
-### 🤖 AI Agent Developer Intern
-
-```diff
-+ Developing intelligent workflow automation systems
-+ Building voice-assisted AI guidance solutions
-+ Designing real-time AI interaction experiences
-```
-
-</td>
-</tr>
-</table>
-
-<table>
-<tr>
-<td width="100%">
-
-### 🌐 WordPress Developer
-
-```diff
-+ Engineered responsive business websites
-+ Optimized SEO, scalability & performance
-+ Customized plugin and theme architectures
-```
-
-</td>
-</tr>
-</table>
-
-<table>
-<tr>
-<td width="100%">
-
-### 📊 Data Analyst & AI/ML Intern
-
-```diff
-+ Built NLP-powered chatbot systems
-+ Worked on OpenCV & computer vision pipelines
-+ Developed automation & analytics workflows
-```
-
-</td>
-</tr>
-</table>
-
-<table>
-<tr>
-<td width="100%">
-
-### 💻 Full Stack Developer
-
-```diff
-+ Developed scalable full stack applications
-+ Integrated APIs & backend systems
-+ Enhanced UI responsiveness & user experience
-```
-
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-<div align="center">
-
-# <img width="28" src="https://cdn-icons-png.flaticon.com/512/1006/1006771.png"/>  FEATURED PROJECTS
-
-</div>
-
-<table>
-<tr>
-<td width="50%">
-
-## 🤖 AI Task Supervisor
-
-AI-powered workflow execution assistant designed for intelligent automation and real-time guidance.
-
-</td>
-
-<td width="50%">
-
-## 🌐 GrowthSpark
-
-Modern high-performance business platform focused on responsive architecture and SEO optimization.
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-## 🚕 Taxi Booking Chatbot
-
-NLP-powered intelligent booking assistant developed using Dialogflow automation workflows.
-
-</td>
-
-<td width="50%">
-
-## 👤 Face Recognition System
-
-Real-time face recognition and tracking system using Python, OpenCV & AI pipelines.
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-## 🎥 Moving Object Detection
-
-Computer vision-based motion analysis and intelligent object tracking system.
-
-</td>
-
-<td width="50%">
-
-## 🍔 QuickBitz UI
-
-High-fidelity smart canteen ordering experience with modern UI/UX design.
-
-</td>
-</tr>
-</table>
-
----
-
-<div align="center">
-
-# <img width="28" src="https://cdn-icons-png.flaticon.com/512/3135/3135715.png"/>  ACHIEVEMENTS
+# ⚡ / SYSTEM.INFO
 
 </div>
 
 ```yaml
-🏆 Smart India Hackathon Participant
+name: Surendhiran Rajendhran
+role: AI & Software Developer
+education: B.Tech Information Technology
+specialization:
+  - AI Agents
+  - Automation Systems
+  - Full Stack Development
+  - WordPress Development
+  - AI/ML Solutions
 
-🚀 Active in:
-   → Learnathons
-   → Coding Events
-   → AI Workshops
-   → Development Programs
+currently_building:
+  - AI Workflow Automation
+  - Voice-Assisted Systems
+  - Intelligent Task Guidance
+  - Modern Web Experiences
 
-⚡ Exploring:
-   → Generative AI
-   → AI Agents
-   → Automation Architecture
+philosophy:
+  "Build systems that think, automate, and scale."
 ```
 
 ---
 
 <div align="center">
 
-# <img width="28" src="https://cdn-icons-png.flaticon.com/512/4712/4712109.png"/>  CONNECT
+# 🚀 / TECH.STACK
+
+</div>
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,java,javascript,react,nodejs,express,mysql,html,css,bootstrap,wordpress,git,github,figma,vscode&theme=dark" />
+</p>
+
+---
+
+<div align="center">
+
+# 🧠 / EXPERIENCE.LOG
+
+</div>
+
+```bash
+> AI Agent Developer Intern
+```
+
+```diff
++ Building intelligent workflow automation systems
++ Developing voice-assisted AI experiences
++ Designing real-time AI task guidance systems
+```
+
+<br/>
+
+```bash
+> WordPress Developer
+```
+
+```diff
++ Developed responsive and optimized websites
++ Customized themes, plugins & UI systems
++ Improved SEO, speed & performance
+```
+
+<br/>
+
+```bash
+> Data Analyst & AI/ML Intern
+```
+
+```diff
++ Built NLP-powered chatbot systems
++ Worked on OpenCV & computer vision projects
++ Created data visualization & analytics workflows
+```
+
+<br/>
+
+```bash
+> Full Stack Developer
+```
+
+```diff
++ Developed scalable web applications
++ Integrated APIs & backend systems
++ Enhanced UI responsiveness & user experience
+```
+
+---
+
+<div align="center">
+
+# 🔥 / FEATURED.PROJECTS
+
+</div>
+
+<table>
+<tr>
+<td width="50%">
+
+### 🤖 AI Task Supervisor
+AI-powered workflow automation & execution assistant with intelligent guidance systems.
+
+</td>
+
+<td width="50%">
+
+### 🌐 GrowthSpark
+Modern WordPress-based marketing consultation platform with optimized performance.
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🚕 Taxi Booking Chatbot
+NLP-powered intelligent booking assistant using Dialogflow automation.
+
+</td>
+
+<td width="50%">
+
+### 👤 Face Recognition System
+Real-time face recognition & tracking system built using OpenCV & Python.
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🎥 Moving Object Detection
+AI-based object tracking & motion analysis using computer vision.
+
+</td>
+
+<td width="50%">
+
+### 🍔 QuickBitz UI
+Modern UI/UX concept for a smart canteen ordering experience.
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+# 🏆 / ACHIEVEMENTS
+
+</div>
+
+```txt
+🏅 Smart India Hackathon Participant
+🚀 Active in Learnathons & Tech Events
+💡 Passionate about AI, Innovation & Automation
+⚡ Exploring Generative AI & Intelligent Systems
+```
+
+---
+
+<div align="center">
+
+# 📜 / CERTIFICATIONS
+
+</div>
+
+```yaml
+✓ WordPress Development
+✓ Data Analytics & AI/ML
+✓ Introduction to Linux (LFS101)
+✓ Full Stack Web Development
+✓ UI/UX Design
+```
+
+---
+
+<div align="center">
+
+# 🌍 / CONNECT
 
 <br/>
 
 <a href="mailto:surendhiran0012@gmail.com">
-<img src="https://img.shields.io/badge/GMAIL-030712?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/EMAIL-111111?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/surendhiran-rajendhran-49a888259">
-<img src="https://img.shields.io/badge/LINKEDIN-030712?style=for-the-badge&logo=linkedin&logoColor=38BDF8"/>
+<img src="https://img.shields.io/badge/LINKEDIN-111111?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
 </a>
 
 <a href="https://github.com/SurendhiranRajendhran">
-<img src="https://img.shields.io/badge/GITHUB-030712?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GITHUB-111111?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <br/><br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:020617,25:0F172A,50:2563EB,75:38BDF8,100:020617&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0F0F,25:1A1A40,50:00C2FF,75:7F5AF0,100:0F0F0F&height=120&section=footer"/>
 
 </div>
