@@ -1,21 +1,21 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0F0F,25:1A1A40,50:00C2FF,75:7F5AF0,100:0F0F0F&height=220&section=header&text=Surendhiran%20Rajendhran&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Agent%20Developer%20•%20Full%20Stack%20Developer%20•%20AI/ML%20Explorer&descAlignY=58&descSize=18"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,20:0B1026,40:111827,60:1D4ED8,80:38BDF8,100:050816&height=260&section=header&text=Surendhiran%20Rajendhran&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20•%20Automation%20Developer%20•%20Full%20Stack%20Architect&descAlignY=58&descSize=18"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=700&size=26&duration=3000&pause=800&color=00F5FF&center=true&vCenter=true&width=900&lines=Building+AI-Powered+Digital+Experiences;Creating+Automation+%26+Intelligent+Systems;Full+Stack+Developer+%7C+AI%2FML+Enthusiast;Designing+Modern+%26+Scalable+Solutions" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=700&size=28&duration=2800&pause=800&color=38BDF8&center=true&vCenter=true&width=1000&lines=Engineering+AI-Powered+Digital+Systems;Building+Scalable+Automation+Architectures;Full+Stack+Developer+%7C+AI+Engineer;Designing+Modern+%26+High-Performance+Experiences" />
 
 <br/>
 
 <a href="mailto:surendhiran0012@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-0A0F1C?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/surendhiran-rajendhran-49a888259">
-<img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A0F1C?style=for-the-badge&logo=linkedin&logoColor=38BDF8"/>
 </a>
 
 <a href="https://github.com/SurendhiranRajendhran">
-<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-0A0F1C?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </div>
@@ -24,14 +24,17 @@
 
 <div align="center">
 
-# ⚡ / SYSTEM.INFO
+# ⚡ SYSTEM.INFO
 
 </div>
 
 ```yaml
 name: Surendhiran Rajendhran
+
 role: AI & Software Developer
+
 education: B.Tech Information Technology
+
 specialization:
   - AI Agents
   - Automation Systems
@@ -39,11 +42,11 @@ specialization:
   - WordPress Development
   - AI/ML Solutions
 
-currently_building:
-  - AI Workflow Automation
-  - Voice-Assisted Systems
-  - Intelligent Task Guidance
-  - Modern Web Experiences
+core_focus:
+  - AI Engineering
+  - Intelligent Automation
+  - Full Stack Development
+  - Scalable Digital Solutions
 
 philosophy:
   "Build systems that think, automate, and scale."
@@ -53,7 +56,7 @@ philosophy:
 
 <div align="center">
 
-# 🚀 / TECH.STACK
+# 🚀 TECH.STACK
 
 </div>
 
@@ -65,7 +68,7 @@ philosophy:
 
 <div align="center">
 
-# 🧠 / EXPERIENCE.LOG
+# 🧠 EXPERIENCE.LOG
 
 </div>
 
@@ -119,7 +122,7 @@ philosophy:
 
 <div align="center">
 
-# 🔥 / FEATURED.PROJECTS
+# 🔥 FEATURED.PROJECTS
 
 </div>
 
@@ -177,7 +180,7 @@ Modern UI/UX concept for a smart canteen ordering experience.
 
 <div align="center">
 
-# 🏆 / ACHIEVEMENTS
+# 🏆 ACHIEVEMENTS
 
 </div>
 
@@ -192,7 +195,7 @@ Modern UI/UX concept for a smart canteen ordering experience.
 
 <div align="center">
 
-# 📜 / CERTIFICATIONS
+# 📜 CERTIFICATIONS
 
 </div>
 
@@ -208,24 +211,24 @@ Modern UI/UX concept for a smart canteen ordering experience.
 
 <div align="center">
 
-# 🌍 / CONNECT
+# 🌍 CONNECT
 
 <br/>
 
 <a href="mailto:surendhiran0012@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-111111?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/EMAIL-0A0F1C?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/surendhiran-rajendhran-49a888259">
-<img src="https://img.shields.io/badge/LINKEDIN-111111?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
+<img src="https://img.shields.io/badge/LINKEDIN-0A0F1C?style=for-the-badge&logo=linkedin&logoColor=38BDF8"/>
 </a>
 
 <a href="https://github.com/SurendhiranRajendhran">
-<img src="https://img.shields.io/badge/GITHUB-111111?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GITHUB-0A0F1C?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0F0F,25:1A1A40,50:00C2FF,75:7F5AF0,100:0F0F0F&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,20:0B1026,40:111827,60:1D4ED8,80:38BDF8,100:050816&height=130&section=footer"/>
 
 </div>
