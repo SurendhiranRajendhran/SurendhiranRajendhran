@@ -22,11 +22,7 @@
 
 ---
 
-<div align="center">
-
-# ⚡ SYSTEM.INFO
-
-</div>
+# Profile.Info
 
 ```yaml
 name: Surendhiran Rajendhran
@@ -54,11 +50,7 @@ philosophy:
 
 ---
 
-<div align="center">
-
-# 🚀 TECH.STACK
-
-</div>
+# Tech Stack
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python,java,javascript,react,nodejs,express,mysql,html,css,bootstrap,wordpress,git,github,figma,vscode&theme=dark" />
@@ -66,11 +58,7 @@ philosophy:
 
 ---
 
-<div align="center">
-
-# 🧠 EXPERIENCE.LOG
-
-</div>
+# Experience
 
 ```bash
 > AI Agent Developer Intern
@@ -120,11 +108,7 @@ philosophy:
 
 ---
 
-<div align="center">
-
-# 🔥 FEATURED.PROJECTS
-
-</div>
+# Featured Projects
 
 <table>
 <tr>
@@ -178,11 +162,7 @@ Modern UI/UX concept for a smart canteen ordering experience.
 
 ---
 
-<div align="center">
-
-# 🏆 ACHIEVEMENTS
-
-</div>
+# Achievements
 
 ```txt
 🏅 Smart India Hackathon Participant
@@ -193,11 +173,7 @@ Modern UI/UX concept for a smart canteen ordering experience.
 
 ---
 
-<div align="center">
-
-# 📜 CERTIFICATIONS
-
-</div>
+# Certifications
 
 ```yaml
 ✓ WordPress Development
@@ -209,11 +185,9 @@ Modern UI/UX concept for a smart canteen ordering experience.
 
 ---
 
+# Connect
+
 <div align="center">
-
-# 🌍 CONNECT
-
-<br/>
 
 <a href="mailto:surendhiran0012@gmail.com">
 <img src="https://img.shields.io/badge/EMAIL-0A0F1C?style=for-the-badge&logo=gmail&logoColor=white"/>
@@ -227,8 +201,8 @@ Modern UI/UX concept for a smart canteen ordering experience.
 <img src="https://img.shields.io/badge/GITHUB-0A0F1C?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<br/><br/>
+</div>
+
+<br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,20:0B1026,40:111827,60:1D4ED8,80:38BDF8,100:050816&height=130&section=footer"/>
-
-</div>
