@@ -1,123 +1,138 @@
-<h1 align="center">
-  Hey 👋 I'm Surendhiran Rajendhran
-</h1>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3500&color=00C2FF&center=true&vCenter=true&width=700&lines=AI+Agent+Developer;Full+Stack+%26+WordPress+Developer;AI%2FML+Enthusiast;Building+Smart+Digital+Experiences" />
-</p>
+# Surendhiran Rajendhran
+
+### AI Agent Developer • Full Stack Developer • AI/ML Explorer
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Building+AI-Powered+Experiences;Creating+Automation+%26+Intelligent+Systems;Full+Stack+%7C+WordPress+%7C+AI%2FML;Designing+Modern+Digital+Solutions" />
+
+<br/>
+
+<a href="mailto:surendhiran0012@gmail.com">
+  <img src="https://img.shields.io/badge/Email-0A0A0A?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/surendhiran-rajendhran-49a888259">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/SurendhiranRajendhran">
+  <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
 
 ---
 
-## 🚀 About Me
+# / about_me
 
-```yaml
-Name: Surendhiran Rajendhran
-Role: AI & Software Developer
-Education: B.Tech Information Technology
-Focus: AI Agents • Automation • Web Development
-Location: Tamil Nadu, India
+```ts
+const surendhiran = {
+  role: "AI & Software Developer",
+  education: "B.Tech Information Technology",
+  interests: [
+    "AI Agents",
+    "Automation",
+    "Full Stack Development",
+    "Generative AI",
+    "UI/UX Design"
+  ],
+  
+  currentlyBuilding: [
+    "AI workflow systems",
+    "Voice-assisted automation",
+    "Modern web experiences"
+  ],
+
+  technologies: {
+    frontend: ["React", "HTML", "CSS", "Bootstrap"],
+    backend: ["Node.js", "Express.js"],
+    ai_ml: ["Python", "OpenCV", "Dialogflow", "NLP"],
+    databases: ["MySQL"],
+    tools: ["Git", "GitHub", "Figma", "VS Code", "WordPress"]
+  }
+}
 ```
 
-- 🤖 Building AI-powered automation systems & intelligent workflows  
-- 🌐 Developing responsive web applications & WordPress solutions  
-- 📊 Exploring AI/ML, OpenCV, NLP & data analytics  
-- 🎨 Interested in UI/UX design & modern digital experiences  
-- 🚀 Passionate about learning, building & experimenting with tech  
+---
+
+# / tech_stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,java,javascript,react,nodejs,express,mysql,html,css,bootstrap,wordpress,git,github,figma,vscode&perline=8" />
+
+</div>
 
 ---
 
-## ⚡ Tech Stack
+# / experience
 
-<p align="center">
+```yaml
+AI Agent Developer Intern:
+  → Building intelligent workflow automation systems
+  → Developing voice-assisted AI experiences
+  → Creating real-time task guidance solutions
 
-<img src="https://skillicons.dev/icons?i=python,java,c,javascript,react,nodejs,express,mysql,html,css,bootstrap,wordpress,git,github,figma,vscode" />
+WordPress Developer:
+  → Developed responsive client websites
+  → Optimized SEO & performance
+  → Customized themes & plugins
 
-</p>
+Data Analyst & AI/ML Intern:
+  → Built AI chatbot systems
+  → Worked on OpenCV & NLP projects
+  → Performed data visualization & analysis
 
----
-
-## 💼 Experience
-
-### 🤖 AI Agent Developer Intern
-- Developing intelligent AI workflow systems
-- Building voice-assisted automation features
-- Working on real-time AI guidance systems
-
-### 🌐 WordPress Developer
-- Built responsive client websites
-- SEO optimization & performance enhancement
-- Theme & plugin customization
-
-### 📊 Data Analyst & AI/ML Intern
-- Developed AI chatbot systems using NLP
-- Worked on OpenCV-based AI projects
-- Built data cleaning & visualization workflows
-
-### 💻 Full Stack Developer
-- Developed responsive web applications
-- Built backend integrations & APIs
-- Improved application performance
+Full Stack Developer:
+  → Developed dynamic web applications
+  → Integrated APIs & backend systems
+  → Improved UI responsiveness & performance
+```
 
 ---
 
-## 🏗 Featured Projects
+# / featured_projects
 
-### 🤖 AI Task Supervisor
-> AI-powered workflow execution & automation assistant
+<div align="center">
 
-### 🌐 GrowthSpark
-🔗 https://growthspark.tech/
+| Project | Description |
+|---|---|
+| 🤖 AI Task Supervisor | AI-powered automation & workflow assistant |
+| 🌐 GrowthSpark | Modern WordPress business website |
+| 🚕 Taxi Booking Chatbot | NLP-powered AI booking assistant |
+| 👤 Face Recognition System | Real-time face detection using OpenCV |
+| 🎥 Moving Object Detection | AI-based object tracking system |
+| 🍔 QuickBitz UI | Smart canteen ordering UI/UX concept |
 
-### 🚕 Taxi Booking Chatbot
-> NLP-based AI chatbot using Dialogflow
-
-### 👤 Face Recognition System
-> Real-time face recognition using Python & OpenCV
-
-### 🎥 Moving Object Detection
-> AI-based object tracking & motion analysis
-
-### 🍔 QuickBitz UI
-> Modern canteen ordering UI/UX prototype
+</div>
 
 ---
 
-## 🏆 Achievements
+# / achievements
 
-- 🥇 Smart India Hackathon (SIH) Participant
-- 💡 Active in Learnathons, Tech Fests & Coding Events
-- 🚀 Passionate about AI, automation & innovation
-
----
-
-## 📜 Certifications
-
-- ✔️ WordPress Development
-- ✔️ Data Analytics & AI/ML
-- ✔️ Introduction to Linux (LFS101)
-- ✔️ Full Stack Web Development
-- ✔️ UI/UX Design Internship
+- 🏆 Smart India Hackathon Participant  
+- 🚀 Active in Learnathons & Tech Events  
+- 💡 Passionate about AI, Automation & Innovation  
 
 ---
 
-## 🌍 Connect With Me
+# / certifications
 
-<p align="center">
-  <a href="mailto:surendhiran0012@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-
-  <a href="https://www.linkedin.com/in/surendhiran-rajendhran-49a888259">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-
-  <a href="https://github.com/SurendhiranRajendhran">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
+```txt
+✓ WordPress Development
+✓ Data Analytics & AI/ML
+✓ Introduction to Linux (LFS101)
+✓ Full Stack Web Development
+✓ UI/UX Design
+```
 
 ---
 
-<h3 align="center">
-  ⚡ Building AI-driven digital experiences with creativity & code
-</h3>
+<div align="center">
+
+### “Building intelligent digital experiences with AI & creativity.”
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer"/>
+
+</div>
