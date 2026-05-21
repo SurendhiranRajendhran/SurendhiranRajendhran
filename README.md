@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,20:0B1026,40:111827,60:1D4ED8,80:38BDF8,100:050816&height=260&section=header&text=Surendhiran%20Rajendhran&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20•%20Automation%20Developer%20•%20Full%20Stack%20Architect&descAlignY=58&descSize=18"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,20:0B1026,40:111827,60:1D4ED8,80:38BDF8,100:050816&height=260&section=header&text=Surendhiran%20Rajendhran&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20•%20Full%20Stack%20Developer%20•%20WordPress%20Developer&descAlignY=58&descSize=18"/>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=700&size=28&duration=2800&pause=800&color=38BDF8&center=true&vCenter=true&width=1000&lines=Engineering+AI-Powered+Digital+Systems;Building+Scalable+Automation+Architectures;Full+Stack+Developer+%7C+AI+Engineer;Designing+Modern+%26+High-Performance+Experiences" />
 
